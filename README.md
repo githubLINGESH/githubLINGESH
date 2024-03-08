@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Email : linga2522004@gmail.com
 <!--
 **githubLINGESH/githubLINGESH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
